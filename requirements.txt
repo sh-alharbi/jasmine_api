@@ -1,0 +1,13 @@
+torch
+torchvision
+timm
+pandas
+numpy
+tqdm
+Pillow
+requests
+transformers
+scikit-learn
+matplotlib
+openai
+python-multipart
